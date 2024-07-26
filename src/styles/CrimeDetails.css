@@ -1,0 +1,66 @@
+.crime{
+    max-width: 1200px;
+    margin: 10px auto;
+}
+.pad-color{
+    padding: 10px;
+    background-color: white;
+    border-radius: 5px;
+}
+.headtext{
+    color: white;
+    font-size: 40px;
+    font-family: serif;
+    margin: 10px auto;
+    text-align: center;
+}
+/* CrimeDetails.css */
+.table-cell-center {
+    vertical-align: middle;
+    text-align: center;
+  }
+  
+
+.table-style {
+    border: 1px solid grey;
+    border-collapse: collapse;
+    width: 100%;
+    background-color: white;
+    border-radius: 5px;
+  }
+  .table-style2 {
+    border: 1px solid grey;
+    border-collapse: collapse;
+    width: 100%;
+    background-color: white;
+    border-radius: 5px;
+  }
+  .table-style th,
+  .table-style td {
+    padding: 10px;
+    text-align: center; 
+    border: 1px solid grey;
+  }
+  .table-style2 th,
+  .table-style2 td {
+    padding: 6px;
+    text-align: center; 
+  }
+
+  .pagination{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+
+  .pagination button {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px 14px; 
+    margin: 6px 0; 
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
